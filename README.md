@@ -3,9 +3,9 @@
 C++ simulation of a load balancer that distributes network requests across multiple web servers. The simulation includes dynamic server scaling, IP-based request blocking for security, and comprehensive logging of all activities.
 
  Classes
-- **LoadBalancer**: Main class that manages the server pool and request distribution
-- **WebServer**: Represents individual servers that process requests over time
-- **Request**: Encapsulates network requests with source/destination IPs and pr
+- LoadBalancer: Main class that manages the server pool and request distribution
+- WebServer: Represents individual servers that process requests over time
+- Request: Encapsulates network requests with source/destination IPs and pr
 
  Configuration Files
 - `blocked_ips.txt`: Contains IP addresses to block (one per line)
