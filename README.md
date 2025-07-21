@@ -1,51 +1,12 @@
-# Load Balancer Simulation
+# Load Balancer Simulator
 
 ## Overview
 This project implements a C++ simulation of a load balancer that distributes network requests across multiple web servers. The simulation includes dynamic server scaling, IP-based request blocking for security, and comprehensive logging of all activities.
 
-## Features
-- **Dynamic Server Scaling**: Automatically adds/removes servers based on current load
-- **IP Blocking**: Security feature to block requests from specified IP addresses
-- **Comprehensive Logging**: Dual logging system for both firewall events and general simulation activities
-- **Random Request Generation**: Simulates realistic traffic patterns with occasional traffic surges
-- **Time-based Simulation**: Discrete time simulation with configurable duration
-
 ## Classes
 - **LoadBalancer**: Main class that manages the server pool and request distribution
 - **WebServer**: Represents individual servers that process requests over time
-- **Request**: Encapsulates network requests with source/destination IPs and processing time
-
-## Building and Running
-```bash
-# Compile the project
-g++ -o main.exe main.cpp LoadBalancer.cpp WebServer.cpp Request.cpp
-
-# Run the simulation
-./main.exe
-```
-
-## Generating Documentation
-This project includes comprehensive Doxygen documentation. To generate HTML documentation:
-
-```bash
-# Install Doxygen (if not already installed)
-# On Windows: Download from http://www.doxygen.nl/download.html
-# On Ubuntu/Debian: sudo apt-get install doxygen
-# On macOS: brew install doxygen
-
-# Generate documentation
-doxygen Doxyfile
-
-# View documentation
-# Open docs/html/index.html in your web browser
-```
-
-The generated documentation will include:
-- Class hierarchy and relationships
-- Detailed API documentation for all methods
-- Parameter and return value descriptions
-- Source code browsing
-- Alphabetical index of all symbols
+- **Request**: Encapsulates network requests with source/destination IPs and pr
 
 ## Configuration Files
 - `blocked_ips.txt`: Contains IP addresses to block (one per line)
