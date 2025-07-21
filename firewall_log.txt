@@ -1,0 +1,3241 @@
+
+[Sun Jul 20 20:50:33 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 20:50:33 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 20:50:33 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 20:50:33 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 20:50:33 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 20:51:28 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 20:51:28 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 20:51:28 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 20:51:28 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 20:51:28 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 20:51:28 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 20:51:28 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 20:51:28 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 20:51:28 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 20:51:28 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 20:51:28 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 20:51:28 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 20:51:28 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 20:51:28 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 20:51:28 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 20:51:28 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 20:51:28 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 33
+[Sun Jul 20 20:51:28 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 54
+[Sun Jul 20 21:00:27 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 21:00:27 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 21:00:27 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 21:00:27 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 21:00:27 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 21:00:27 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 21:00:27 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 21:00:27 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 21:00:27 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 21:00:27 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 21:05:22 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 21:05:22 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 21:05:22 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 21:05:22 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 21:05:22 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 21:05:22 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 21:05:22 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 21:05:22 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 21:05:22 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 21:05:22 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 21:05:49 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 21:05:49 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 21:05:49 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 21:05:49 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 21:05:49 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 21:05:49 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 21:05:49 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 21:05:49 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 21:05:49 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 21:05:49 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 21:05:49 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 52
+[Sun Jul 20 21:05:49 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 92
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 107
+[Sun Jul 20 21:37:36 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 141
+[Sun Jul 20 21:37:37 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 180
+[Sun Jul 20 21:37:38 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 384
+[Sun Jul 20 21:37:38 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 449
+[Sun Jul 20 21:37:39 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 537
+[Sun Jul 20 21:37:39 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 628
+[Sun Jul 20 21:37:39 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 687
+[Sun Jul 20 21:37:40 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 707
+[Sun Jul 20 21:37:40 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 776
+[Sun Jul 20 21:37:40 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 780
+[Sun Jul 20 21:37:40 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 801
+[Sun Jul 20 21:37:40 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 825
+[Sun Jul 20 21:37:40 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 934
+[Sun Jul 20 21:37:40 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 938
+[Sun Jul 20 21:37:40 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 961
+[Sun Jul 20 21:37:40 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 990
+[Sun Jul 20 21:37:41 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 1025
+[Sun Jul 20 21:37:41 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 1102
+[Sun Jul 20 21:37:41 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 1120
+[Sun Jul 20 21:37:41 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 1241
+[Sun Jul 20 21:37:41 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 1241
+[Sun Jul 20 21:37:41 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 1241
+[Sun Jul 20 21:37:41 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 1241
+[Sun Jul 20 21:37:41 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 1297
+[Sun Jul 20 21:37:41 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 1367
+[Sun Jul 20 21:37:42 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 1441
+[Sun Jul 20 21:37:42 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 1519
+[Sun Jul 20 21:37:42 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 1541
+[Sun Jul 20 21:37:42 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 1549
+[Sun Jul 20 21:37:42 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 1677
+[Sun Jul 20 21:37:42 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 1720
+[Sun Jul 20 21:37:42 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 1745
+[Sun Jul 20 21:37:42 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 1751
+[Sun Jul 20 21:37:43 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 1862
+[Sun Jul 20 21:37:43 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 1882
+[Sun Jul 20 21:37:43 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 1884
+[Sun Jul 20 21:37:43 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 1899
+[Sun Jul 20 21:37:43 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 1995
+[Sun Jul 20 21:37:43 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 2003
+[Sun Jul 20 21:37:43 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 2023
+[Sun Jul 20 21:37:43 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 2200
+[Sun Jul 20 21:37:44 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 2286
+[Sun Jul 20 21:37:44 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 2339
+[Sun Jul 20 21:37:44 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 2380
+[Sun Jul 20 21:37:44 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 2390
+[Sun Jul 20 21:37:44 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 2394
+[Sun Jul 20 21:37:44 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 2398
+[Sun Jul 20 21:37:44 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 2520
+[Sun Jul 20 21:37:44 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 2619
+[Sun Jul 20 21:37:45 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 2820
+[Sun Jul 20 21:37:45 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 2868
+[Sun Jul 20 21:37:45 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 3012
+[Sun Jul 20 21:37:46 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 3059
+[Sun Jul 20 21:37:46 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 3079
+[Sun Jul 20 21:37:46 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 3137
+[Sun Jul 20 21:37:46 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 3225
+[Sun Jul 20 21:37:46 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 3243
+[Sun Jul 20 21:37:47 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 3512
+[Sun Jul 20 21:37:47 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 3571
+[Sun Jul 20 21:37:47 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 3598
+[Sun Jul 20 21:37:47 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 3618
+[Sun Jul 20 21:37:47 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 3709
+[Sun Jul 20 21:37:47 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 3714
+[Sun Jul 20 21:37:47 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 3717
+[Sun Jul 20 21:37:47 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 3765
+[Sun Jul 20 21:37:47 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 3816
+[Sun Jul 20 21:37:47 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 3830
+[Sun Jul 20 21:37:48 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 3900
+[Sun Jul 20 21:37:48 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 3936
+[Sun Jul 20 21:37:48 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 4012
+[Sun Jul 20 21:37:48 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 4039
+[Sun Jul 20 21:37:48 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 4042
+[Sun Jul 20 21:37:48 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 4104
+[Sun Jul 20 21:37:48 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 4192
+[Sun Jul 20 21:37:48 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 4196
+[Sun Jul 20 21:37:49 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 4271
+[Sun Jul 20 21:37:49 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 4277
+[Sun Jul 20 21:37:49 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 4302
+[Sun Jul 20 21:37:49 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 4399
+[Sun Jul 20 21:37:49 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 4403
+[Sun Jul 20 21:37:49 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 4419
+[Sun Jul 20 21:37:49 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 4481
+[Sun Jul 20 21:37:49 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 4497
+[Sun Jul 20 21:37:49 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 4504
+[Sun Jul 20 21:37:49 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 4535
+[Sun Jul 20 21:37:49 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 4552
+[Sun Jul 20 21:37:49 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 4605
+[Sun Jul 20 21:37:50 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 4639
+[Sun Jul 20 21:37:50 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 4790
+[Sun Jul 20 21:37:50 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 4876
+[Sun Jul 20 21:37:51 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 5062
+[Sun Jul 20 21:37:51 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 5099
+[Sun Jul 20 21:37:51 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 5152
+[Sun Jul 20 21:37:51 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 5176
+[Sun Jul 20 21:37:51 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 5199
+[Sun Jul 20 21:37:51 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 5235
+[Sun Jul 20 21:37:51 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 5253
+[Sun Jul 20 21:37:51 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 5322
+[Sun Jul 20 21:37:51 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 5347
+[Sun Jul 20 21:37:52 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 5521
+[Sun Jul 20 21:37:52 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 5540
+[Sun Jul 20 21:37:52 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 5679
+[Sun Jul 20 21:37:52 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 5689
+[Sun Jul 20 21:37:53 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 5751
+[Sun Jul 20 21:37:53 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 5767
+[Sun Jul 20 21:37:53 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 5788
+[Sun Jul 20 21:37:53 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 5859
+[Sun Jul 20 21:37:54 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 6103
+[Sun Jul 20 21:37:54 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 6236
+[Sun Jul 20 21:37:54 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 6279
+[Sun Jul 20 21:37:54 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 6296
+[Sun Jul 20 21:37:54 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 6362
+[Sun Jul 20 21:37:54 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 6407
+[Sun Jul 20 21:37:55 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 6455
+[Sun Jul 20 21:37:55 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 6476
+[Sun Jul 20 21:37:55 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 6596
+[Sun Jul 20 21:37:55 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 6598
+[Sun Jul 20 21:37:55 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 6607
+[Sun Jul 20 21:37:55 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 6762
+[Sun Jul 20 21:37:56 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 6872
+[Sun Jul 20 21:37:56 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 6912
+[Sun Jul 20 21:37:56 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 6935
+[Sun Jul 20 21:37:56 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 6977
+[Sun Jul 20 21:37:56 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 7024
+[Sun Jul 20 21:37:56 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 7045
+[Sun Jul 20 21:37:57 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 7248
+[Sun Jul 20 21:37:57 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 7280
+[Sun Jul 20 21:37:57 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 7295
+[Sun Jul 20 21:37:57 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 7343
+[Sun Jul 20 21:37:57 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 7411
+[Sun Jul 20 21:37:57 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 7441
+[Sun Jul 20 21:37:58 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 7529
+[Sun Jul 20 21:37:58 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 7559
+[Sun Jul 20 21:37:58 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 7610
+[Sun Jul 20 21:37:58 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 7617
+[Sun Jul 20 21:37:58 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 7693
+[Sun Jul 20 21:37:58 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 7707
+[Sun Jul 20 21:37:58 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 7826
+[Sun Jul 20 21:37:59 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 7982
+[Sun Jul 20 21:37:59 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 8052
+[Sun Jul 20 21:37:59 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 8062
+[Sun Jul 20 21:37:59 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 8095
+[Sun Jul 20 21:37:59 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 8174
+[Sun Jul 20 21:38:00 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 8226
+[Sun Jul 20 21:38:00 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 8243
+[Sun Jul 20 21:38:00 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 8288
+[Sun Jul 20 21:38:00 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 8344
+[Sun Jul 20 21:38:00 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 8349
+[Sun Jul 20 21:38:00 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 8377
+[Sun Jul 20 21:38:00 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 8387
+[Sun Jul 20 21:38:00 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 8419
+[Sun Jul 20 21:38:00 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 8448
+[Sun Jul 20 21:38:00 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 8492
+[Sun Jul 20 21:38:01 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 8636
+[Sun Jul 20 21:38:01 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 8647
+[Sun Jul 20 21:38:01 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 8690
+[Sun Jul 20 21:38:01 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 8702
+[Sun Jul 20 21:38:01 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 8707
+[Sun Jul 20 21:38:01 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 8737
+[Sun Jul 20 21:38:01 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 8780
+[Sun Jul 20 21:38:01 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 8792
+[Sun Jul 20 21:38:01 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 8825
+[Sun Jul 20 21:38:02 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 8906
+[Sun Jul 20 21:38:02 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 8967
+[Sun Jul 20 21:38:02 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 9111
+[Sun Jul 20 21:38:02 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 9123
+[Sun Jul 20 21:38:02 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 9142
+[Sun Jul 20 21:38:02 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 9194
+[Sun Jul 20 21:38:02 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 9210
+[Sun Jul 20 21:38:03 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 9227
+[Sun Jul 20 21:38:03 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 9254
+[Sun Jul 20 21:38:03 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 9269
+[Sun Jul 20 21:38:03 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 9285
+[Sun Jul 20 21:38:03 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 9370
+[Sun Jul 20 21:38:03 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 9381
+[Sun Jul 20 21:38:03 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 9443
+[Sun Jul 20 21:38:03 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 9526
+[Sun Jul 20 21:38:03 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 9535
+[Sun Jul 20 21:38:04 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 9643
+[Sun Jul 20 21:38:04 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 9663
+[Sun Jul 20 21:38:04 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 9667
+[Sun Jul 20 21:38:04 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 9692
+[Sun Jul 20 21:38:04 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 9726
+[Sun Jul 20 21:38:04 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 9767
+[Sun Jul 20 21:38:04 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 9814
+[Sun Jul 20 21:38:04 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 9834
+[Sun Jul 20 21:38:04 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 9859
+[Sun Jul 20 21:38:05 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 9957
+[Sun Jul 20 21:48:24 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 21:48:24 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 66
+[Sun Jul 20 21:48:24 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 67
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 1
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 57
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 60
+[Sun Jul 20 21:48:44 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 90
+[Sun Jul 20 21:48:45 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 154
+[Sun Jul 20 21:48:45 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 264
+[Sun Jul 20 21:48:46 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 373
+[Sun Jul 20 21:48:46 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 389
+[Sun Jul 20 21:48:47 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 504
+[Sun Jul 20 21:48:47 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 564
+[Sun Jul 20 21:48:48 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 674
+[Sun Jul 20 21:48:48 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 676
+[Sun Jul 20 21:48:49 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 787
+[Sun Jul 20 21:48:49 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 854
+[Sun Jul 20 21:48:49 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 1008
+[Sun Jul 20 21:48:49 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 1015
+[Sun Jul 20 21:48:49 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 1049
+[Sun Jul 20 21:48:49 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 1080
+[Sun Jul 20 21:48:50 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 1199
+[Sun Jul 20 21:48:50 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 1201
+[Sun Jul 20 21:48:50 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 1236
+[Sun Jul 20 21:48:50 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 1276
+[Sun Jul 20 21:48:50 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 1283
+[Sun Jul 20 21:48:50 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 1324
+[Sun Jul 20 21:48:51 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 1495
+[Sun Jul 20 21:48:51 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 1582
+[Sun Jul 20 21:48:51 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 1618
+[Sun Jul 20 21:48:51 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 1682
+[Sun Jul 20 21:48:51 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 1720
+[Sun Jul 20 21:48:51 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 1763
+[Sun Jul 20 21:48:51 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 1810
+[Sun Jul 20 21:48:52 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 1942
+[Sun Jul 20 21:48:52 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 1958
+[Sun Jul 20 21:48:52 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 2058
+[Sun Jul 20 21:48:52 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 2155
+[Sun Jul 20 21:48:52 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 2217
+[Sun Jul 20 21:48:53 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 2398
+[Sun Jul 20 21:48:53 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 2507
+[Sun Jul 20 21:48:54 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 2583
+[Sun Jul 20 21:48:54 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 2608
+[Sun Jul 20 21:48:54 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 2672
+[Sun Jul 20 21:48:54 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 2801
+[Sun Jul 20 21:48:54 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 2811
+[Sun Jul 20 21:48:54 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 2849
+[Sun Jul 20 21:48:55 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 2906
+[Sun Jul 20 21:48:55 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 2951
+[Sun Jul 20 21:48:55 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 3076
+[Sun Jul 20 21:48:56 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 3354
+[Sun Jul 20 21:48:56 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 3407
+[Sun Jul 20 21:48:57 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 3511
+[Sun Jul 20 21:48:57 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 3526
+[Sun Jul 20 21:48:57 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 3574
+[Sun Jul 20 21:48:57 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 3618
+[Sun Jul 20 21:48:57 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 3660
+[Sun Jul 20 21:48:57 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 3697
+[Sun Jul 20 21:48:57 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 3747
+[Sun Jul 20 21:48:58 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 3779
+[Sun Jul 20 21:48:58 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 3819
+[Sun Jul 20 21:48:58 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 3845
+[Sun Jul 20 21:48:58 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 3861
+[Sun Jul 20 21:48:58 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 3958
+[Sun Jul 20 21:48:58 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 3981
+[Sun Jul 20 21:49:00 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 4350
+[Sun Jul 20 21:49:00 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 4418
+[Sun Jul 20 21:49:00 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 4419
+[Sun Jul 20 21:49:00 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 4421
+[Sun Jul 20 21:49:00 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 4480
+[Sun Jul 20 21:49:00 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 4593
+[Sun Jul 20 21:49:00 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 4632
+[Sun Jul 20 21:49:01 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 4818
+[Sun Jul 20 21:49:01 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 4833
+[Sun Jul 20 21:49:01 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 4901
+[Sun Jul 20 21:49:01 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 4956
+[Sun Jul 20 21:49:02 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 4981
+[Sun Jul 20 21:49:02 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 4999
+[Sun Jul 20 21:49:02 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 5004
+[Sun Jul 20 21:49:02 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 5029
+[Sun Jul 20 21:49:02 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 5108
+[Sun Jul 20 21:49:02 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 5140
+[Sun Jul 20 21:49:02 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 5166
+[Sun Jul 20 21:49:02 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 5217
+[Sun Jul 20 21:49:02 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 5283
+[Sun Jul 20 21:49:03 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 5315
+[Sun Jul 20 21:49:03 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 5327
+[Sun Jul 20 21:49:03 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 5402
+[Sun Jul 20 21:49:03 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 5433
+[Sun Jul 20 21:49:03 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 5434
+[Sun Jul 20 21:49:04 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 5603
+[Sun Jul 20 21:49:04 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 5623
+[Sun Jul 20 21:49:04 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 5681
+[Sun Jul 20 21:49:04 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 5694
+[Sun Jul 20 21:49:04 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 5704
+[Sun Jul 20 21:49:04 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 5714
+[Sun Jul 20 21:49:04 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 5749
+[Sun Jul 20 21:49:04 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 5821
+[Sun Jul 20 21:49:04 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 5828
+[Sun Jul 20 21:49:04 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 5829
+[Sun Jul 20 21:49:04 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 5841
+[Sun Jul 20 21:49:05 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 5857
+[Sun Jul 20 21:49:05 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 5896
+[Sun Jul 20 21:49:05 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 5941
+[Sun Jul 20 21:49:05 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 5943
+[Sun Jul 20 21:49:05 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 5969
+[Sun Jul 20 21:49:05 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 6096
+[Sun Jul 20 21:49:05 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 6113
+[Sun Jul 20 21:49:05 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 6122
+[Sun Jul 20 21:49:05 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 6124
+[Sun Jul 20 21:49:05 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 6162
+[Sun Jul 20 21:49:06 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 6190
+[Sun Jul 20 21:49:06 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 6215
+[Sun Jul 20 21:49:06 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 6219
+[Sun Jul 20 21:49:06 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 6365
+[Sun Jul 20 21:49:06 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 6397
+[Sun Jul 20 21:49:06 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 6432
+[Sun Jul 20 21:49:06 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 6464
+[Sun Jul 20 21:49:07 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 6508
+[Sun Jul 20 21:49:07 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 6509
+[Sun Jul 20 21:49:07 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 6525
+[Sun Jul 20 21:49:07 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 6530
+[Sun Jul 20 21:49:07 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 6582
+[Sun Jul 20 21:49:07 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 6643
+[Sun Jul 20 21:49:07 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 6682
+[Sun Jul 20 21:49:07 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 6718
+[Sun Jul 20 21:49:08 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 6830
+[Sun Jul 20 21:49:08 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 6950
+[Sun Jul 20 21:49:08 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 6994
+[Sun Jul 20 21:49:08 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 7106
+[Sun Jul 20 21:49:08 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 7123
+[Sun Jul 20 21:49:08 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 7138
+[Sun Jul 20 21:49:09 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 7254
+[Sun Jul 20 21:49:09 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 7299
+[Sun Jul 20 21:49:09 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 7310
+[Sun Jul 20 21:49:09 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 7313
+[Sun Jul 20 21:49:09 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 7376
+[Sun Jul 20 21:49:09 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 7391
+[Sun Jul 20 21:49:09 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 7405
+[Sun Jul 20 21:49:09 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 7426
+[Sun Jul 20 21:49:10 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 7546
+[Sun Jul 20 21:49:10 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 7571
+[Sun Jul 20 21:49:10 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 7584
+[Sun Jul 20 21:49:10 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 7653
+[Sun Jul 20 21:49:10 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 7660
+[Sun Jul 20 21:49:10 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 7702
+[Sun Jul 20 21:49:10 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 7702
+[Sun Jul 20 21:49:10 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 7725
+[Sun Jul 20 21:49:10 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 7763
+[Sun Jul 20 21:49:10 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 7812
+[Sun Jul 20 21:49:10 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 7821
+[Sun Jul 20 21:49:11 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 7882
+[Sun Jul 20 21:49:11 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 8145
+[Sun Jul 20 21:49:11 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 8205
+[Sun Jul 20 21:49:11 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 8229
+[Sun Jul 20 21:49:12 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 8244
+[Sun Jul 20 21:49:12 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 8261
+[Sun Jul 20 21:49:12 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 8289
+[Sun Jul 20 21:49:12 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 8370
+[Sun Jul 20 21:49:12 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 8423
+[Sun Jul 20 21:49:12 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 8437
+[Sun Jul 20 21:49:12 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 8451
+[Sun Jul 20 21:49:12 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 8509
+[Sun Jul 20 21:49:12 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 8513
+[Sun Jul 20 21:49:12 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 8527
+[Sun Jul 20 21:49:13 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 8849
+[Sun Jul 20 21:49:13 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 8899
+[Sun Jul 20 21:49:14 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 9071
+[Sun Jul 20 21:49:14 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 9148
+[Sun Jul 20 21:49:14 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 9195
+[Sun Jul 20 21:49:14 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 9259
+[Sun Jul 20 21:49:14 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 9274
+[Sun Jul 20 21:49:14 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 9324
+[Sun Jul 20 21:49:14 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 9374
+[Sun Jul 20 21:49:15 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 9464
+[Sun Jul 20 21:49:15 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 9511
+[Sun Jul 20 21:49:15 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 9654
+[Sun Jul 20 21:49:15 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 9658
+[Sun Jul 20 21:49:15 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 9702
+[Sun Jul 20 21:49:15 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 9720
+[Sun Jul 20 21:49:16 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 9908
+[Sun Jul 20 21:49:16 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 9959
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:04:05 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 22:04:06 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 12
+[Sun Jul 20 22:04:06 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 121
+[Sun Jul 20 22:04:06 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 123
+[Sun Jul 20 22:04:07 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 156
+[Sun Jul 20 22:04:07 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 194
+[Sun Jul 20 22:04:07 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 219
+[Sun Jul 20 22:04:07 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 256
+[Sun Jul 20 22:04:08 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 329
+[Sun Jul 20 22:04:08 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 334
+[Sun Jul 20 22:04:08 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 351
+[Sun Jul 20 22:04:08 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 379
+[Sun Jul 20 22:04:09 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 460
+[Sun Jul 20 22:04:10 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 585
+[Sun Jul 20 22:04:11 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 678
+[Sun Jul 20 22:04:11 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 754
+[Sun Jul 20 22:04:11 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 772
+[Sun Jul 20 22:04:11 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 782
+[Sun Jul 20 22:04:11 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 803
+[Sun Jul 20 22:04:12 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 872
+[Sun Jul 20 22:04:12 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 927
+[Sun Jul 20 22:04:12 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 930
+[Sun Jul 20 22:04:12 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 979
+[Sun Jul 20 22:04:12 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 984
+[Sun Jul 20 22:04:12 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 995
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 32
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 105
+[Sun Jul 20 22:08:00 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 119
+[Sun Jul 20 22:08:02 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 259
+[Sun Jul 20 22:08:02 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 388
+[Sun Jul 20 22:08:03 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 454
+[Sun Jul 20 22:08:03 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 479
+[Sun Jul 20 22:08:03 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 497
+[Sun Jul 20 22:08:03 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 531
+[Sun Jul 20 22:08:03 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 537
+[Sun Jul 20 22:08:04 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 603
+[Sun Jul 20 22:08:04 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 709
+[Sun Jul 20 22:08:05 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 754
+[Sun Jul 20 22:08:05 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 859
+[Sun Jul 20 22:08:05 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 892
+[Sun Jul 20 22:08:05 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 941
+[Sun Jul 20 22:08:05 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 951
+[Sun Jul 20 22:08:05 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 957
+[Sun Jul 20 22:08:05 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 962
+[Sun Jul 20 22:08:05 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 965
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:13:16 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 127
+[Sun Jul 20 22:13:17 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 150
+[Sun Jul 20 22:13:17 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 192
+[Sun Jul 20 22:13:17 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 199
+[Sun Jul 20 22:13:17 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 214
+[Sun Jul 20 22:13:17 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 229
+[Sun Jul 20 22:13:17 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 296
+[Sun Jul 20 22:13:18 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 334
+[Sun Jul 20 22:13:18 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 362
+[Sun Jul 20 22:13:19 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 514
+[Sun Jul 20 22:13:20 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 649
+[Sun Jul 20 22:13:21 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 921
+[Sun Jul 20 22:13:21 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 930
+[Sun Jul 20 22:13:21 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 935
+[Sun Jul 20 22:13:21 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 972
+[Sun Jul 20 22:15:29 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:15:29 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:15:29 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:15:29 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:15:29 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 1
+[Sun Jul 20 22:15:29 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 77
+[Sun Jul 20 22:15:29 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 85
+[Sun Jul 20 22:17:44 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 21
+[Sun Jul 20 22:17:45 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 50
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 13
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 33
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 45
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 83
+[Sun Jul 20 22:22:09 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 90
+[Sun Jul 20 22:23:13 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:23:13 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 22:23:13 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:23:13 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:23:13 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 22:23:13 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 22:23:13 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 23
+[Sun Jul 20 22:23:14 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 88
+[Sun Jul 20 22:30:34 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:30:34 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:30:34 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:30:34 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:30:34 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:30:34 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:30:34 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:30:34 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:30:35 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 32
+[Sun Jul 20 22:30:45 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:30:45 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:30:45 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:30:45 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:30:45 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:30:45 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 43
+[Sun Jul 20 22:30:45 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 70
+[Sun Jul 20 22:30:45 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 83
+[Sun Jul 20 22:31:40 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:31:40 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:31:40 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:31:40 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:31:40 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 22:31:40 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:31:41 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 33
+[Sun Jul 20 22:31:41 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 33
+[Sun Jul 20 22:31:41 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 70
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 24
+[Sun Jul 20 22:34:18 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 29
+[Sun Jul 20 22:35:32 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:35:32 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:35:32 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 22:35:32 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 22:35:32 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:35:32 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:35:32 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:35:32 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:35:32 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:35:32 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:35:32 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:35:32 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:35:32 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:35:32 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:35:32 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:35:32 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:35:32 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:35:32 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 22:35:32 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:35:32 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 22:35:32 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:35:32 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:35:32 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 14
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 15
+[Sun Jul 20 22:35:33 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 54
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 2
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 17
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 38
+[Sun Jul 20 22:36:58 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 50
+[Sun Jul 20 22:37:10 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:37:10 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:37:10 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:37:10 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:37:10 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:37:10 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:37:10 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:37:10 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:37:10 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:37:10 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 15
+[Sun Jul 20 22:39:28 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 22:39:28 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:39:28 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:39:28 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:39:28 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:39:28 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 22:39:28 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:39:28 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:39:28 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:39:28 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:39:28 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:39:28 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:39:28 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 44
+[Sun Jul 20 22:39:28 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 74
+[Sun Jul 20 22:39:29 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 117
+[Sun Jul 20 22:39:29 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 162
+[Sun Jul 20 22:39:29 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 175
+[Sun Jul 20 22:39:29 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 179
+[Sun Jul 20 22:39:29 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 212
+[Sun Jul 20 22:39:29 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 294
+[Sun Jul 20 22:39:30 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 488
+[Sun Jul 20 22:39:30 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 492
+[Sun Jul 20 22:39:30 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 593
+[Sun Jul 20 22:39:30 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 641
+[Sun Jul 20 22:39:30 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 647
+[Sun Jul 20 22:39:30 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 684
+[Sun Jul 20 22:39:30 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 713
+[Sun Jul 20 22:39:31 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 828
+[Sun Jul 20 22:39:31 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 832
+[Sun Jul 20 22:39:31 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 862
+[Sun Jul 20 22:39:31 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 866
+[Sun Jul 20 22:39:31 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 911
+[Sun Jul 20 22:39:31 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 998
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 6
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 40
+[Sun Jul 20 22:50:39 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 43
+[Sun Jul 20 22:50:40 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 175
+[Sun Jul 20 22:50:40 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 179
+[Sun Jul 20 22:50:40 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 196
+[Sun Jul 20 22:50:40 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 271
+[Sun Jul 20 22:50:41 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 374
+[Sun Jul 20 22:50:41 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 377
+[Sun Jul 20 22:50:41 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 391
+[Sun Jul 20 22:50:42 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 447
+[Sun Jul 20 22:50:42 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 450
+[Sun Jul 20 22:50:43 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 633
+[Sun Jul 20 22:50:43 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 643
+[Sun Jul 20 22:50:44 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 924
+[Sun Jul 20 22:50:44 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 952
+[Sun Jul 20 22:50:45 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 1115
+[Sun Jul 20 22:50:45 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 1125
+[Sun Jul 20 22:50:45 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 1248
+[Sun Jul 20 22:50:46 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 1336
+[Sun Jul 20 22:50:46 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 1417
+[Sun Jul 20 22:50:46 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 1425
+[Sun Jul 20 22:50:46 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 1435
+[Sun Jul 20 22:50:46 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 1491
+[Sun Jul 20 22:50:46 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 1540
+[Sun Jul 20 22:50:46 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 1584
+[Sun Jul 20 22:50:46 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 1624
+[Sun Jul 20 22:50:47 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 1705
+[Sun Jul 20 22:50:47 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 1784
+[Sun Jul 20 22:50:47 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 1804
+[Sun Jul 20 22:50:47 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 1923
+[Sun Jul 20 22:50:47 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 1951
+[Sun Jul 20 22:50:48 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 1981
+[Sun Jul 20 22:50:48 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 2066
+[Sun Jul 20 22:50:48 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 2081
+[Sun Jul 20 22:50:48 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 2095
+[Sun Jul 20 22:50:48 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 2110
+[Sun Jul 20 22:50:48 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 2183
+[Sun Jul 20 22:50:48 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 2193
+[Sun Jul 20 22:50:48 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 2262
+[Sun Jul 20 22:50:48 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 2308
+[Sun Jul 20 22:50:49 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 2396
+[Sun Jul 20 22:50:49 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 2422
+[Sun Jul 20 22:50:49 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 2442
+[Sun Jul 20 22:50:49 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 2650
+[Sun Jul 20 22:50:49 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 2656
+[Sun Jul 20 22:50:50 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 2727
+[Sun Jul 20 22:50:50 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 2831
+[Sun Jul 20 22:50:50 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 2909
+[Sun Jul 20 22:50:50 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 2962
+[Sun Jul 20 22:50:50 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 3002
+[Sun Jul 20 22:50:51 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 3022
+[Sun Jul 20 22:50:51 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 3067
+[Sun Jul 20 22:50:51 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 3095
+[Sun Jul 20 22:50:51 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 3148
+[Sun Jul 20 22:50:51 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 3219
+[Sun Jul 20 22:50:51 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 3236
+[Sun Jul 20 22:50:51 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 3254
+[Sun Jul 20 22:50:51 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 3271
+[Sun Jul 20 22:50:51 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 3319
+[Sun Jul 20 22:50:51 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 3326
+[Sun Jul 20 22:50:52 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 3370
+[Sun Jul 20 22:50:52 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 3437
+[Sun Jul 20 22:50:52 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 3453
+[Sun Jul 20 22:50:52 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 3486
+[Sun Jul 20 22:50:52 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 3494
+[Sun Jul 20 22:50:52 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 3501
+[Sun Jul 20 22:50:52 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 3548
+[Sun Jul 20 22:50:52 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 3605
+[Sun Jul 20 22:50:52 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 3638
+[Sun Jul 20 22:50:53 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 3759
+[Sun Jul 20 22:50:53 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 3792
+[Sun Jul 20 22:50:53 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 3813
+[Sun Jul 20 22:50:53 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 3860
+[Sun Jul 20 22:50:53 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 3889
+[Sun Jul 20 22:50:54 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 4087
+[Sun Jul 20 22:50:54 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 4143
+[Sun Jul 20 22:50:54 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 4147
+[Sun Jul 20 22:50:54 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 4293
+[Sun Jul 20 22:50:54 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 4383
+[Sun Jul 20 22:50:55 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 4423
+[Sun Jul 20 22:50:55 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 4540
+[Sun Jul 20 22:50:55 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 4555
+[Sun Jul 20 22:50:55 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 4639
+[Sun Jul 20 22:50:55 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 4690
+[Sun Jul 20 22:50:55 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 4700
+[Sun Jul 20 22:50:55 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 4721
+[Sun Jul 20 22:50:56 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 4800
+[Sun Jul 20 22:50:56 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 4939
+[Sun Jul 20 22:50:57 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 5116
+[Sun Jul 20 22:50:57 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 5227
+[Sun Jul 20 22:50:57 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 5261
+[Sun Jul 20 22:50:57 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 5294
+[Sun Jul 20 22:50:57 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 5307
+[Sun Jul 20 22:50:57 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 5316
+[Sun Jul 20 22:50:57 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 5441
+[Sun Jul 20 22:50:57 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 5442
+[Sun Jul 20 22:50:58 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 5453
+[Sun Jul 20 22:50:58 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 5485
+[Sun Jul 20 22:50:58 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 5541
+[Sun Jul 20 22:50:58 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 5553
+[Sun Jul 20 22:50:58 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 5555
+[Sun Jul 20 22:50:58 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 5571
+[Sun Jul 20 22:50:58 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 5599
+[Sun Jul 20 22:50:58 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 5631
+[Sun Jul 20 22:50:59 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 5818
+[Sun Jul 20 22:50:59 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 5842
+[Sun Jul 20 22:50:59 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 5944
+[Sun Jul 20 22:50:59 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 5986
+[Sun Jul 20 22:50:59 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 6091
+[Sun Jul 20 22:51:00 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 6173
+[Sun Jul 20 22:51:00 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 6267
+[Sun Jul 20 22:51:00 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 6336
+[Sun Jul 20 22:51:00 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 6341
+[Sun Jul 20 22:51:00 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 6354
+[Sun Jul 20 22:51:00 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 6359
+[Sun Jul 20 22:51:01 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 6410
+[Sun Jul 20 22:51:01 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 6475
+[Sun Jul 20 22:51:01 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 6500
+[Sun Jul 20 22:51:01 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 6583
+[Sun Jul 20 22:51:01 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 6596
+[Sun Jul 20 22:51:01 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 6630
+[Sun Jul 20 22:51:01 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 6648
+[Sun Jul 20 22:51:02 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 6722
+[Sun Jul 20 22:51:02 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 6727
+[Sun Jul 20 22:51:02 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 6773
+[Sun Jul 20 22:51:02 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 6779
+[Sun Jul 20 22:51:02 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 6878
+[Sun Jul 20 22:51:02 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 6920
+[Sun Jul 20 22:51:02 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 6951
+[Sun Jul 20 22:51:02 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 6970
+[Sun Jul 20 22:51:03 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 7027
+[Sun Jul 20 22:51:03 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 7055
+[Sun Jul 20 22:51:03 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 7105
+[Sun Jul 20 22:51:03 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 7133
+[Sun Jul 20 22:51:03 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 7138
+[Sun Jul 20 22:51:03 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 7194
+[Sun Jul 20 22:51:04 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 7448
+[Sun Jul 20 22:51:04 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 7500
+[Sun Jul 20 22:51:04 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 7542
+[Sun Jul 20 22:51:04 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 7544
+[Sun Jul 20 22:51:04 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 7629
+[Sun Jul 20 22:51:05 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 7701
+[Sun Jul 20 22:51:05 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 7793
+[Sun Jul 20 22:51:05 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 7829
+[Sun Jul 20 22:51:05 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 7917
+[Sun Jul 20 22:51:05 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 8003
+[Sun Jul 20 22:51:05 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 8026
+[Sun Jul 20 22:51:06 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 8057
+[Sun Jul 20 22:51:06 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 8123
+[Sun Jul 20 22:51:06 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 8131
+[Sun Jul 20 22:51:06 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 8186
+[Sun Jul 20 22:51:06 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 8225
+[Sun Jul 20 22:51:06 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 8231
+[Sun Jul 20 22:51:06 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 8285
+[Sun Jul 20 22:51:06 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 8346
+[Sun Jul 20 22:51:06 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 8376
+[Sun Jul 20 22:51:06 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 8395
+[Sun Jul 20 22:51:06 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 8395
+[Sun Jul 20 22:51:07 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 8422
+[Sun Jul 20 22:51:07 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 8480
+[Sun Jul 20 22:51:07 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 8555
+[Sun Jul 20 22:51:07 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 8573
+[Sun Jul 20 22:51:07 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 8603
+[Sun Jul 20 22:51:07 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 8626
+[Sun Jul 20 22:51:07 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 8670
+[Sun Jul 20 22:51:07 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 8688
+[Sun Jul 20 22:51:07 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 8704
+[Sun Jul 20 22:51:07 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 8743
+[Sun Jul 20 22:51:07 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 8755
+[Sun Jul 20 22:51:08 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 8782
+[Sun Jul 20 22:51:08 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 8784
+[Sun Jul 20 22:51:08 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 8896
+[Sun Jul 20 22:51:08 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 8976
+[Sun Jul 20 22:51:08 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 8977
+[Sun Jul 20 22:51:08 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 9053
+[Sun Jul 20 22:51:08 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 9059
+[Sun Jul 20 22:51:08 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 9083
+[Sun Jul 20 22:51:09 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 9214
+[Sun Jul 20 22:51:09 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 9235
+[Sun Jul 20 22:51:09 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 9241
+[Sun Jul 20 22:51:09 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 9299
+[Sun Jul 20 22:51:09 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 9307
+[Sun Jul 20 22:51:09 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 9415
+[Sun Jul 20 22:51:10 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 9460
+[Sun Jul 20 22:51:10 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 9518
+[Sun Jul 20 22:51:10 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 9543
+[Sun Jul 20 22:51:10 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 9586
+[Sun Jul 20 22:51:10 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 9652
+[Sun Jul 20 22:51:10 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 9656
+[Sun Jul 20 22:51:10 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 9663
+[Sun Jul 20 22:51:11 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 9879
+[Sun Jul 20 22:51:11 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 9888
+[Sun Jul 20 22:51:11 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 9918
+[Sun Jul 20 22:51:11 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 9928
+[Sun Jul 20 22:51:11 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 9982
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 0
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 34
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 56
+[Sun Jul 20 22:51:25 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 162
+[Sun Jul 20 22:51:26 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 175
+[Sun Jul 20 22:51:26 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 244
+[Sun Jul 20 22:51:26 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 355
+[Sun Jul 20 22:51:27 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 416
+[Sun Jul 20 22:51:27 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 472
+[Sun Jul 20 22:51:27 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 513
+[Sun Jul 20 22:51:28 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 681
+[Sun Jul 20 22:51:28 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 706
+[Sun Jul 20 22:51:28 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 720
+[Sun Jul 20 22:51:28 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 728
+[Sun Jul 20 22:51:28 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 730
+[Sun Jul 20 22:51:29 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 789
+[Sun Jul 20 22:51:29 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 834
+[Sun Jul 20 22:51:29 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 905
+[Sun Jul 20 22:51:29 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 926
+[Sun Jul 20 22:51:29 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 962
+[Sun Jul 20 22:51:29 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 1014
+[Sun Jul 20 22:51:29 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 1039
+[Sun Jul 20 22:51:29 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 1075
+[Sun Jul 20 22:51:29 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 1080
+[Sun Jul 20 22:51:30 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 1183
+[Sun Jul 20 22:51:30 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 1189
+[Sun Jul 20 22:51:30 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 1270
+[Sun Jul 20 22:51:30 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 1296
+[Sun Jul 20 22:51:30 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 1344
+[Sun Jul 20 22:51:30 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 1369
+[Sun Jul 20 22:51:30 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 1433
+[Sun Jul 20 22:51:30 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 1435
+[Sun Jul 20 22:51:30 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 1445
+[Sun Jul 20 22:51:30 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 1477
+[Sun Jul 20 22:51:30 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 1527
+[Sun Jul 20 22:51:31 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 1707
+[Sun Jul 20 22:51:31 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 1710
+[Sun Jul 20 22:51:31 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 1799
+[Sun Jul 20 22:51:31 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 1827
+[Sun Jul 20 22:51:31 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 1986
+[Sun Jul 20 22:51:31 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 2036
+[Sun Jul 20 22:51:32 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 2047
+[Sun Jul 20 22:51:32 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 2201
+[Sun Jul 20 22:51:32 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 2237
+[Sun Jul 20 22:51:32 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 2239
+[Sun Jul 20 22:51:32 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 2287
+[Sun Jul 20 22:51:32 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 2334
+[Sun Jul 20 22:51:32 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 2345
+[Sun Jul 20 22:51:32 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 2388
+[Sun Jul 20 22:51:32 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 2388
+[Sun Jul 20 22:51:32 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 2406
+[Sun Jul 20 22:51:33 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 2652
+[Sun Jul 20 22:51:33 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 2687
+[Sun Jul 20 22:51:33 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 2702
+[Sun Jul 20 22:51:33 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 2720
+[Sun Jul 20 22:51:33 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 2731
+[Sun Jul 20 22:51:33 2025
+] BLOCKED: Request from IP 192.168.1.7 at simulation time 2818
+[Sun Jul 20 22:51:33 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 2840
+[Sun Jul 20 22:51:34 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 2885
+[Sun Jul 20 22:51:34 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 2910
+[Sun Jul 20 22:51:34 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 3046
+[Sun Jul 20 22:51:34 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 3164
+[Sun Jul 20 22:51:35 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 3283
+[Sun Jul 20 22:51:35 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 3307
+[Sun Jul 20 22:51:35 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 3471
+[Sun Jul 20 22:51:35 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 3493
+[Sun Jul 20 22:51:35 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 3508
+[Sun Jul 20 22:51:35 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 3526
+[Sun Jul 20 22:51:35 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 3546
+[Sun Jul 20 22:51:35 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 3584
+[Sun Jul 20 22:51:36 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 3633
+[Sun Jul 20 22:51:36 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 3649
+[Sun Jul 20 22:51:36 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 3760
+[Sun Jul 20 22:51:36 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 3833
+[Sun Jul 20 22:51:36 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 3854
+[Sun Jul 20 22:51:36 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 3869
+[Sun Jul 20 22:51:36 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 3974
+[Sun Jul 20 22:51:36 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 3990
+[Sun Jul 20 22:51:37 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 4052
+[Sun Jul 20 22:51:37 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 4093
+[Sun Jul 20 22:51:37 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 4112
+[Sun Jul 20 22:51:37 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 4190
+[Sun Jul 20 22:51:37 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 4268
+[Sun Jul 20 22:51:37 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 4295
+[Sun Jul 20 22:51:37 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 4396
+[Sun Jul 20 22:51:37 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 4454
+[Sun Jul 20 22:51:37 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 4464
+[Sun Jul 20 22:51:38 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 4554
+[Sun Jul 20 22:51:38 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 4586
+[Sun Jul 20 22:51:38 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 4606
+[Sun Jul 20 22:51:38 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 4613
+[Sun Jul 20 22:51:38 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 4617
+[Sun Jul 20 22:51:38 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 4664
+[Sun Jul 20 22:51:38 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 4683
+[Sun Jul 20 22:51:38 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 4751
+[Sun Jul 20 22:51:38 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 4762
+[Sun Jul 20 22:51:38 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 4788
+[Sun Jul 20 22:51:38 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 4803
+[Sun Jul 20 22:51:38 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 4808
+[Sun Jul 20 22:51:38 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 4815
+[Sun Jul 20 22:51:38 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 4823
+[Sun Jul 20 22:51:38 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 4831
+[Sun Jul 20 22:51:38 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 4915
+[Sun Jul 20 22:51:38 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 4942
+[Sun Jul 20 22:51:39 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 5025
+[Sun Jul 20 22:51:39 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 5113
+[Sun Jul 20 22:51:39 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 5115
+[Sun Jul 20 22:51:39 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 5190
+[Sun Jul 20 22:51:39 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 5192
+[Sun Jul 20 22:51:39 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 5219
+[Sun Jul 20 22:51:39 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 5267
+[Sun Jul 20 22:51:39 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 5352
+[Sun Jul 20 22:51:39 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 5411
+[Sun Jul 20 22:51:39 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 5415
+[Sun Jul 20 22:51:40 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 5509
+[Sun Jul 20 22:51:40 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 5705
+[Sun Jul 20 22:51:41 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 5864
+[Sun Jul 20 22:51:41 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 5990
+[Sun Jul 20 22:51:41 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 6012
+[Sun Jul 20 22:51:41 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 6097
+[Sun Jul 20 22:51:42 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 6191
+[Sun Jul 20 22:51:42 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 6262
+[Sun Jul 20 22:51:42 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 6285
+[Sun Jul 20 22:51:42 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 6295
+[Sun Jul 20 22:51:42 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 6310
+[Sun Jul 20 22:51:42 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 6409
+[Sun Jul 20 22:51:42 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 6468
+[Sun Jul 20 22:51:42 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 6472
+[Sun Jul 20 22:51:43 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 6496
+[Sun Jul 20 22:51:43 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 6504
+[Sun Jul 20 22:51:43 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 6550
+[Sun Jul 20 22:51:43 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 6559
+[Sun Jul 20 22:51:43 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 6603
+[Sun Jul 20 22:51:43 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 6728
+[Sun Jul 20 22:51:43 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 6785
+[Sun Jul 20 22:51:43 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 6829
+[Sun Jul 20 22:51:44 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 6878
+[Sun Jul 20 22:51:44 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 6963
+[Sun Jul 20 22:51:44 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 7030
+[Sun Jul 20 22:51:44 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 7055
+[Sun Jul 20 22:51:45 2025
+] BLOCKED: Request from IP 192.168.1.12 at simulation time 7227
+[Sun Jul 20 22:51:45 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 7423
+[Sun Jul 20 22:51:45 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 7459
+[Sun Jul 20 22:51:45 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 7510
+[Sun Jul 20 22:51:45 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 7536
+[Sun Jul 20 22:51:45 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 7538
+[Sun Jul 20 22:51:46 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 7572
+[Sun Jul 20 22:51:46 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 7617
+[Sun Jul 20 22:51:46 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 7647
+[Sun Jul 20 22:51:46 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 7663
+[Sun Jul 20 22:51:46 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 7674
+[Sun Jul 20 22:51:46 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 7712
+[Sun Jul 20 22:51:46 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 7728
+[Sun Jul 20 22:51:46 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 7762
+[Sun Jul 20 22:51:46 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 7779
+[Sun Jul 20 22:51:46 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 7806
+[Sun Jul 20 22:51:46 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 7822
+[Sun Jul 20 22:51:47 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 7968
+[Sun Jul 20 22:51:47 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 8162
+[Sun Jul 20 22:51:47 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 8265
+[Sun Jul 20 22:51:47 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 8286
+[Sun Jul 20 22:51:48 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 8296
+[Sun Jul 20 22:51:48 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 8353
+[Sun Jul 20 22:51:48 2025
+] BLOCKED: Request from IP 192.168.1.0 at simulation time 8381
+[Sun Jul 20 22:51:48 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 8386
+[Sun Jul 20 22:51:48 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 8424
+[Sun Jul 20 22:51:48 2025
+] BLOCKED: Request from IP 192.168.1.3 at simulation time 8438
+[Sun Jul 20 22:51:48 2025
+] BLOCKED: Request from IP 192.168.1.6 at simulation time 8476
+[Sun Jul 20 22:51:48 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 8490
+[Sun Jul 20 22:51:48 2025
+] BLOCKED: Request from IP 192.168.1.14 at simulation time 8509
+[Sun Jul 20 22:51:48 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 8512
+[Sun Jul 20 22:51:49 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 8670
+[Sun Jul 20 22:51:49 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 8801
+[Sun Jul 20 22:51:49 2025
+] BLOCKED: Request from IP 192.168.1.10 at simulation time 8802
+[Sun Jul 20 22:51:49 2025
+] BLOCKED: Request from IP 192.168.1.4 at simulation time 8812
+[Sun Jul 20 22:51:49 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 8932
+[Sun Jul 20 22:51:49 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 8972
+[Sun Jul 20 22:51:49 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 9002
+[Sun Jul 20 22:51:50 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 9073
+[Sun Jul 20 22:51:50 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 9093
+[Sun Jul 20 22:51:50 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 9145
+[Sun Jul 20 22:51:50 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 9234
+[Sun Jul 20 22:51:50 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 9339
+[Sun Jul 20 22:51:51 2025
+] BLOCKED: Request from IP 192.168.1.11 at simulation time 9379
+[Sun Jul 20 22:51:51 2025
+] BLOCKED: Request from IP 192.168.1.5 at simulation time 9394
+[Sun Jul 20 22:51:51 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 9478
+[Sun Jul 20 22:51:51 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 9485
+[Sun Jul 20 22:51:51 2025
+] BLOCKED: Request from IP 192.168.1.13 at simulation time 9488
+[Sun Jul 20 22:51:51 2025
+] BLOCKED: Request from IP 192.168.1.8 at simulation time 9554
+[Sun Jul 20 22:51:52 2025
+] BLOCKED: Request from IP 192.168.1.1 at simulation time 9678
+[Sun Jul 20 22:51:52 2025
+] BLOCKED: Request from IP 192.168.1.15 at simulation time 9697
+[Sun Jul 20 22:51:52 2025
+] BLOCKED: Request from IP 192.168.1.2 at simulation time 9757
+[Sun Jul 20 22:51:52 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 9837
+[Sun Jul 20 22:51:52 2025
+] BLOCKED: Request from IP 192.168.1.9 at simulation time 9957
